@@ -1,4 +1,3 @@
-```markdown
 # taiko.guide
 
 An English-language documentation project for **Taiko no Tatsujin**.
@@ -56,4 +55,3 @@ If you find incorrect information, discover outdated content, or would like to c
 ## License
 
 This project is licensed under the MIT License unless otherwise stated.
-```

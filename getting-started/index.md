@@ -9,16 +9,20 @@ has_children: true
 
 # Getting Started
 
-Welcome to Taiko no Tatsujin! Whether you've just discovered the game or you're preparing to play for the first time, this section covers everything you need to understand the basics. You'll learn how the game works, how to read notes, how scoring works, and what all the different game modes and terms mean.
+Welcome to **Taiko no Tatsujin!**
 
-If you're completely new, this is the best place to begin before exploring the rest of the site.
+Whether you've just discovered the game or you've already played a few time, this section will help you understand the fundamentals of the game.
 
-## On This Page
+You'll learn how to read notes, how scoring works, how difficulty is measured, and the terminology you'll encounter throughout the rest of the site.
 
-- 🎮 [Where are you playing?](#where-are-you-playing)
-- 📚 [Learning the Basics](#learning-the-basics)
+If you're completely new, this is the best place to begin.
 
-## 🎮 Where are you playing?
+## On this page
+
+- [Where are you playing?](#where-are-you-playing)
+- [Learning the Basics](#learning-the-basics)
+
+## Where are you playing?
 
 ### 🕹️ I'm playing at the arcade
 
@@ -34,7 +38,7 @@ You'll learn about:
 
 ### 🏠 I'm playing at home
 
-If your first experience will be on an arcade cabinet, start here.  
+If your first experience will be on a home version of the game, start here.  
 
 ➡️ Read the **At Home** guide first.
 
@@ -47,10 +51,11 @@ You'll learn about:
 Once you've played your first few credits, come back here to learn the fundamentals of Taiko no Tatsujin.
 These guides explain how the game works and will make everything you see on-screen much easier to understand. 
 
-## 📚 Learning the Basics
-Once you've played your first few credits, the guides below will help you understand how Taiko no Tatsujin works.
-They can be read in order, or you can jump straight to the topic you're interested in.
-These will provide the knowledge you'll use throughout the rest of this site.
+## Learning the Basics
+
+It's time to understand how Taiko no Tatsujin really works.
+
+The guides below explain the game's core mechanics. They can be read in order, or you can jump straight to the topic you're interested in.
 
 ### 🥁 Reading Notes
 
@@ -60,7 +65,7 @@ Learn what every note type means, how to recognise them, and the correct way to 
 
 ### ⭐ Scoring & Judgement 
 
-Understand how your performance is scored, how the Soul Gauge works, how accuracy is measured through Miyabi and Iki, and what determines your final result.  
+Understand how your performance is scored, how the Soul Gauge works, how accuracy is judged, and what determines your final result.   
 
 ➡️ **Read guide**  
 
@@ -76,7 +81,7 @@ A reference guide explaining the common words, abbreviations, and community term
 
 ➡️ **Read guide**
 
-### ❓ Frequently Asked Questions
+### Frequently Asked Questions
 
 Answers to some of the most common questions from new players, including choosing a version to play, controllers, difficulty recommendations, and more.
 
@@ -84,5 +89,4 @@ Answers to some of the most common questions from new players, including choosin
 
 ---
 
-**Previous:** [Getting Started](/getting-started/)  
 **Next:** [Reading Notes](/getting-started/reading-notes/)

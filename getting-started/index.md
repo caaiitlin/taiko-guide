@@ -95,7 +95,7 @@ Answers to some of the most common questions from new players, including choosin
 
 #### Read Next ➡️
 
-**[Reading Notes](/getting-started/reading-notes/)**
+**[Reading Notes](/taiko-guide/getting-started/reading-notes/)**
 
 ---
 

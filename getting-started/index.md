@@ -11,7 +11,7 @@ has_children: true
 
 Welcome to **Taiko no Tatsujin!**
 
-Whether you've just discovered the game or you've already played a few time, this section will help you understand the fundamentals of the game.
+Whether you've just discovered the game or you've already played a few times, this section will help you understand the fundamentals of the game.
 
 You'll learn how to read notes, how scoring works, how difficulty is measured, and the terminology you'll encounter throughout the rest of the site.
 

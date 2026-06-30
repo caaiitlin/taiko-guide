@@ -16,10 +16,10 @@ Check out the categories in the sidebar to find where you want to go.
 
 ---
 
-## Popular Topics
+# Popular Topics
 
-[Getting Started](/taiko-guide/getting-started)
+## [Getting Started](/getting-started)
 
-[Controllers](/taiko-guide/controllers)
+## [Controllers](/controllers)
 
-[Dan-i Dojo](/taiko-guide/dani-dojo)
+## [Dan-i Dojo](/dani-dojo)

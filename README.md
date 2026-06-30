@@ -2,7 +2,7 @@
 
 An English-language documentation project for **Taiko no Tatsujin**.
 
-**Website:** https://caaiitlin.github.io/taiko-guide/ *(custom domain coming soon)*
+**Website:** https://taiko.guide
 
 ---
 

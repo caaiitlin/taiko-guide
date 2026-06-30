@@ -1,4 +1,4 @@
-title: taiko-guide
+title: taiko.guide
 
 description: An English-language guide to Taiko no Tatsujin
 
@@ -25,4 +25,4 @@ callouts:
     color: green
   important:
     title: Important
-    color: purple
+    color: yellow

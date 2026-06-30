@@ -20,12 +20,12 @@ If you're completely new, this is the best place to begin.
 
 ### On this page
 
-- [Where are you playing?](#where-are-you-playing)
+- [Where Are You Playing?](#where-are-you-playing)
 - [Learning the Basics](#learning-the-basics)
 
 ---
 
-## Where are you playing?
+## Where Are You Playing?
 
 ### 🕹️ I'm playing at the arcade
 

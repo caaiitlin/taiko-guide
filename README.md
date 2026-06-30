@@ -48,7 +48,7 @@ Content is being added gradually as documentation is written and reviewed.
 
 Suggestions, corrections, and contributions are always welcome.
 
-If you find incorrect information, discover outdated content, or would like to contribute new documentation, please open an Issue or Pull Request. You can also reach me on Discord @caaiitlin .
+If you find incorrect information, discover outdated content, or would like to contribute new documentation, please open an Issue or Pull Request. You can also contact me on Discord (@caaiitlin).
 
 ---
 

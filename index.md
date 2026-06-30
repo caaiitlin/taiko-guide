@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homepage
 layout: home
 nav_order: 1
 ---
@@ -11,3 +11,15 @@ nav_order: 1
 The goal of this website is to provide clear, practical, and comprehensive information about all aspects of the game, from getting started and understanding game mechanics to choosing home controllers, improving technique, preparing for Dan-i Dojo, and building DIY controllers.
 
 Whether you're completely new to Taiko no Tatsujin or an experienced player looking for technical information, this site aims to make reliable information easy to find.
+
+Check out the categories in the sidebar to find where you want to go.
+
+---
+
+## Popular Topics
+
+[Getting Started](/taiko-guide/getting-started)
+
+[Controllers](/taiko-guide/controllers)
+
+[Dan-i Dojo](/taiko-guide/dani-dojo)

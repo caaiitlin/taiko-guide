@@ -5,7 +5,7 @@ nav_order: 6
 has_children: true
 ---
 
-# DIY
+# DIY Projects
 
 Interested in building or modifying your own Taiko controller?
 

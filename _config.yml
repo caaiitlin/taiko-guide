@@ -9,14 +9,14 @@ baseurl: /taiko-guide
 theme: just-the-docs
 
 color_scheme: dark
-logo: "/assets/logos/logo2.png"
+logo: "/assets/logos/logo.png"
 
 favicon_ico: "/assets/favicon/favicon.png"
 
 callouts:
   note:
     title: Note
-    color: blue
+    color: yellow
   warning:
     title: Warning
     color: red
@@ -26,3 +26,6 @@ callouts:
   important:
     title: Important
     color: yellow
+  diff:
+    title: PC/Console Difference
+    color: gray

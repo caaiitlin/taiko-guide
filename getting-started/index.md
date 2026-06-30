@@ -17,7 +17,7 @@ You'll learn how to read notes, how scoring works, how difficulty is measured, a
 
 If you're completely new, this is the best place to begin.
 
-## On this page
+### On this page
 
 - [Where are you playing?](#where-are-you-playing)
 - [Learning the Basics](#learning-the-basics)

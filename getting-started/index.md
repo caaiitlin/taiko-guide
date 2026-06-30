@@ -25,9 +25,9 @@ If you're completely new, this is the best place to begin.
 
 ---
 
-## Where Are You Playing?
+# Where Are You Playing?
 
-### 🕹️ I'm playing at the arcade
+## 🕹️ I'm playing at the arcade
 
 If your first experience will be on an arcade cabinet, start here.  
 
@@ -39,7 +39,7 @@ You'll learn about:
 - Arcade etiquette 
 - What to expect on your first credit 
 
-### 🏠 I'm playing at home
+## 🏠 I'm playing at home
 
 If your first experience will be on a home version of the game, start here.  
 
@@ -56,29 +56,29 @@ These guides explain how the game works and will make everything you see on-scre
 
 ---
 
-## Learning the Basics
+# Learning the Basics
 
 It's time to understand how Taiko no Tatsujin really works.
 
 The guides below explain the game's core mechanics. They can be read in order, or you can jump straight to the topic you're interested in.
 
-### 🥁 [Reading Notes](/taiko-guide/getting-started/reading-notes)
+## 🥁 [Reading Notes](/taiko-guide/getting-started/reading-notes)
 
 Learn what every note type means, how to recognise them, and the correct way to play them.  
 
-### ⭐ [Scoring & Judgement](/taiko-guide/getting-started/scoring)
+## ⭐ [Scoring & Judgement](/taiko-guide/getting-started/scoring)
 
 Understand how your performance is scored, how the Soul Gauge works, how accuracy is judged, and what determines your final result.   
 
-### 📈 [Difficulty Levels](/taiko-guide/getting-started/difficulty)
+## 📈 [Difficulty Levels](/taiko-guide/getting-started/difficulty)
 
 Learn how Taiko's difficulty system works, what the star ratings represent, and how to choose songs that match your current skill level.    
 
-### 📖 [Terminology](/taiko-guide/getting-started/terminology)
+## 📖 [Terminology](/taiko-guide/getting-started/terminology)
 
 A reference guide explaining the common words, abbreviations, and community terms you'll encounter throughout the game.
 
-### [Frequently Asked Questions](/taiko-guide/faq/)
+## [Frequently Asked Questions](/taiko-guide/faq/)
 
 Answers to some of the most common questions from new players, including choosing a version to play, controllers, difficulty recommendations, and more.
 

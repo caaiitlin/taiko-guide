@@ -61,35 +61,25 @@ It's time to understand how Taiko no Tatsujin really works.
 
 The guides below explain the game's core mechanics. They can be read in order, or you can jump straight to the topic you're interested in.
 
-### 🥁 Reading Notes
+### 🥁 [Reading Notes](/taiko-guide/getting-started/reading-notes/)
 
 Learn what every note type means, how to recognise them, and the correct way to play them.  
-
-➡️ **Read guide**
 
 ### ⭐ Scoring & Judgement 
 
 Understand how your performance is scored, how the Soul Gauge works, how accuracy is judged, and what determines your final result.   
 
-➡️ **Read guide**  
-
 ### 📈 Difficulty Levels 
 
 Learn how Taiko's difficulty system works, what the star ratings represent, and how to choose songs that match your current skill level.    
-
-➡️ **Read guide**
 
 ### 📖 Terminology
 
 A reference guide explaining the common words, abbreviations, and community terms you'll encounter throughout the game.
 
-➡️ **Read guide**
-
 ### Frequently Asked Questions
 
 Answers to some of the most common questions from new players, including choosing a version to play, controllers, difficulty recommendations, and more.
-
-➡️ **Read FAQ**
 
 ---
 

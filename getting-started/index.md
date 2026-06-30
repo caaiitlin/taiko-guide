@@ -22,6 +22,8 @@ If you're completely new, this is the best place to begin.
 - [Where are you playing?](#where-are-you-playing)
 - [Learning the Basics](#learning-the-basics)
 
+---
+
 ## Where are you playing?
 
 ### 🕹️ I'm playing at the arcade
@@ -50,6 +52,8 @@ You'll learn about:
 
 Once you've played your first few credits, come back here to learn the fundamentals of Taiko no Tatsujin.
 These guides explain how the game works and will make everything you see on-screen much easier to understand. 
+
+---
 
 ## Learning the Basics
 

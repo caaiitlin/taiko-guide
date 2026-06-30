@@ -2,9 +2,9 @@ title: taiko.guide
 
 description: An English-language guide to Taiko no Tatsujin
 
-url: https://caaiitlin.github.io
+url: https://taiko.guide
 
-baseurl: /taiko-guide
+baseurl: ""
 
 theme: just-the-docs
 

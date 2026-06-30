@@ -31,7 +31,7 @@ If you're completely new, this is the best place to begin.
 
 If your first experience will be on an arcade cabinet, start here.  
 
-➡️ Read the **At the Arcade** guide first.  
+➡️ Read the **[At the Arcade](/taiko-guide/arcade/)** guide first.  
 
 You'll learn about:
 - Finding a cabinet 
@@ -43,7 +43,7 @@ You'll learn about:
 
 If your first experience will be on a home version of the game, start here.  
 
-➡️ Read the **At Home** guide first.
+➡️ Read the **[At Home](/taiko-guide/home/)** guide first.
 
 You'll learn about:
 - Choosing a platform
@@ -66,19 +66,19 @@ The guides below explain the game's core mechanics. They can be read in order, o
 
 Learn what every note type means, how to recognise them, and the correct way to play them.  
 
-### ⭐ Scoring & Judgement 
+### ⭐ [Scoring & Judgement](/taiko-guide/getting-started/scoring/)
 
 Understand how your performance is scored, how the Soul Gauge works, how accuracy is judged, and what determines your final result.   
 
-### 📈 Difficulty Levels 
+### 📈 [Difficulty Levels](/taiko-guide/getting-started/difficulty/)
 
 Learn how Taiko's difficulty system works, what the star ratings represent, and how to choose songs that match your current skill level.    
 
-### 📖 Terminology
+### 📖 [Terminology](/taiko-guide/getting-started/terminology/)
 
 A reference guide explaining the common words, abbreviations, and community terms you'll encounter throughout the game.
 
-### Frequently Asked Questions
+### [Frequently Asked Questions](/taiko-guide/faq/)
 
 Answers to some of the most common questions from new players, including choosing a version to play, controllers, difficulty recommendations, and more.
 

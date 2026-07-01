@@ -8,23 +8,23 @@ An English-language documentation project for **Taiko no Tatsujin**.
 
 ## About
 
-**taiko.guide** aims to provide clear, practical, and comprehensive documentation covering all aspects of Taiko no Tatsujin.
+**taiko.guide** is a community-focused documentation project for **Taiko no Tatsujin**, providing clear, accurate, and beginner-friendly information while remaining useful for experienced players.
 
-The goal is to bring together information that is currently spread across forum posts, Discord servers, GitHub repositories, Japanese websites, and community discussions into a single, easy-to-navigate resource.
+The goal is to bring together information currently spread across the Internet into a single, easy-to-navigate resource.
+
+Whether you're playing your first song, buying your first controller, preparing for Dan-i Dojo, or looking for detailed hardware information, **taiko.guide** aims to make reliable information easy to find.
 
 Topics include:
 
 - Getting Started
-- Arcade gameplay
-- Home versions
-- Controller comparisons
-- Buying guides
-- Controller modifications
-- DIY controllers
-- Gameplay technique
+- At the Arcade
+- At Home
+- Controllers
+- Bachi
+- Technique
 - Dan-i Dojo
-- Community resources
-- Glossary
+- Song Lists
+- Resources
 
 ---
 
@@ -32,23 +32,23 @@ Topics include:
 
 🚧 This project is currently under active development.
 
-Content is being added gradually as documentation is written and reviewed.
+The overall site structure has been established, with documentation gradually being added and refined across all sections.
+
+Content is continuously expanded as new information is researched, verified, and written.
 
 ---
 
-## Built With
+## Development
 
-- Jekyll (Ruby gem)
-- Just the Docs
-- GitHub Pages
+The site is built with Jekyll using the [Just the Docs theme](https://github.com/just-the-docs/just-the-docs) and is automatically deployed to GitHub Pages whenever changes are merged into the `main` branch.
 
 ---
 
 ## Contributing
 
-Suggestions, corrections, and contributions are always welcome.
+Suggestions and corrections are always welcome.
 
-If you find incorrect information, discover outdated content, or would like to contribute new documentation, please open an Issue or Pull Request. You can also contact me on Discord (@caaiitlin).
+If you find incorrect or outdated information, or have an idea for improving the site, feel free to open an Issue.
 
 ---
 

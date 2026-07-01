@@ -1,8 +1,13 @@
 ---
+
 title: Resources
 layout: default
-nav_order: 9
+nav_order: 8
+has_children: true
+has_toc: false
+
 ---
+
 
 # Resources
 

@@ -4,7 +4,7 @@ layout: default
 nav_order: 4
 ---
 
-# Home Setup
+# Playing At Home
 
 This section covers everything needed to get the best possible Taiko no Tatsujin experience at home.
 

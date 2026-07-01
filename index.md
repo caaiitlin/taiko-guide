@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Homepage
 layout: home
 nav_order: 1
 ---

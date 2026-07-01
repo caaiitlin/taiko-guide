@@ -1,11 +1,8 @@
 ---
-
 title: FAQ
 layout: default
-nav_order: 10
-has_children: false
-has_toc: false
-
+parent: Getting Started
+nav_order: 6
 ---
 
 # Frequently Asked Questions

@@ -11,7 +11,7 @@ has_toc: false
 
 # About
 
-**taiko-guide** is an English-language documentation project for the STaiko no Tatsujin community.
+**taiko-guide** is an English-language documentation project for the Taiko no Tatsujin community.
 
 We aim to provide clear, comprehensive, and accessible English-language documentation covering all aspects of the game, from gameplay fundamentals and arcade features to home controllers, DIY projects, and advanced techniques.
 

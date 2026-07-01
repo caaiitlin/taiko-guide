@@ -1,8 +1,13 @@
 ---
+
 title: About
 layout: default
-nav_order: 11
+nav_order: 9
+has_children: true
+has_toc: false
+
 ---
+
 
 # About
 

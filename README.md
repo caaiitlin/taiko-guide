@@ -1,6 +1,6 @@
 # taiko.guide
 
-An English-language documentation project for **Taiko no Tatsujin**.
+An English-language guide and documentation project for **Taiko no Tatsujin**.
 
 **Website:** https://taiko.guide
 

@@ -23,7 +23,6 @@ Topics include:
 - Bachi
 - Technique
 - Dan-i Dojo
-- Song Lists
 - Resources
 
 ---

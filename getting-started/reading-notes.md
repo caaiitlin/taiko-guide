@@ -80,8 +80,8 @@ Remember: **blue** notes always represent **ka**. 
 
 ## Drum Roll (連打) 
 
-![Drum Rolls](/assets/images/getting-started/rolls.png)
-  
+![Drum Rolls](/assets/images/getting-started/rolls.png)  
+
 **Drum rolls** begin with a yellow note followed by a yellow bar.
 
 When the drum roll reaches the judgement circle, repeatedly strike the drum until the yellow bar ends.

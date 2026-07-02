@@ -29,8 +29,8 @@ Before learning the different note types, it's important to understand how the t
 
 The drum has **two playable areas**:
 
-- **Surface (drumhead)**: used for **don (D)** notes.
-- **Rim**: used for **ka (K)** notes.
+- **Surface (drumhead)**: used for **don** notes.
+- **Rim**: used for **ka** notes.
 
 Each area can be struck on either the **left** or **right** side, giving four possible inputs in total.
 
@@ -46,7 +46,7 @@ The following abbreviations are also used:
 Every note in Taiko no Tatsujin is simply a variation of one or both of these two inputs.
 
 {: .fact }
-**The drum used in *Taiko no Tatsujin* is based on the traditional Japanese **taiko** (太鼓), a family of percussion instruments that have been used in Japan for centuries.
+The drum used in *Taiko no Tatsujin* is based on the traditional Japanese **taiko** (太鼓), a family of percussion instruments that have been used in Japan for centuries.
 
 ---
 
@@ -169,7 +169,7 @@ Hand-Holding Notes are exclusive to specific 2-player charts and can safely be i
 - Confusing don (surface) and ka (rim) inputs.
 - Watching the judgement circle instead of looking ahead.
 - Hitting balloon notes only once.
-- **(PC/Console)** Forgetting to use both matching inputs on large notes.
+- (PC/Console) Forgetting to use both matching inputs on large notes.
 
 ---
 

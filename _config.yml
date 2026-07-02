@@ -16,7 +16,7 @@ favicon_ico: "/assets/favicon/favicon.png"
 callouts:
   note:
     title: Note
-    color: yellow
+    color: green
   warning:
     title: Warning
     color: red
@@ -25,10 +25,7 @@ callouts:
     color: green
   important:
     title: Important
-    color: orange
-  diff:
-    title: PC/Console Difference
-    color: gray
+    color: yellow
   fact:
     title: Fun Fact
-    color: pink
+    color: blue

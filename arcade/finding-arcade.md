@@ -16,8 +16,8 @@ This page explains the best ways to find a Taiko no Tatsujin cabinet, along with
 ### On this page
 
 - [What is Nijiiro?](#what-is-nijiiro)
-- [Using Arcade Locators](#using-arcade-locators)
 - [Regional Availability](#regional-availability)
+- [Using Arcade Locators](#using-arcade-locators)
 - [Before You Visit](#before-you-visit)
 
 ---
@@ -34,7 +34,37 @@ and Banapass/Amusement IC support. Newer cabinets may also include hardware impr
 electricity.
 
 If possible, we recommend playing on an official online Nijiiro cabinet to enjoy the latest features, content, and hardware improvements. Unless otherwise stated, all arcade 
-information on taiko.guide assumes you're playing the current Nijiiro version.
+information on **taiko.guide** assumes you're playing the current Nijiiro version.
+
+# Regional Availability
+
+Official online **Nijiiro** cabinets are available in regions where Bandai Namco actively supports the arcade version. Although each regional release is the same core game, available songs, events, language options, and other content may vary between regions due to licensing and regional content differences.
+
+## Japan
+
+Japan has by far the largest number of Taiko no Tatsujin arcade cabinets and is the primary region for the arcade version. If you're visiting Japan, official online Nijiiro cabinets can be found at most major arcade chains, including Round1, GiGO, and Taito Station.
+
+## Asia & Oceania
+
+The **Nijiiro (Asia)** release began rolling out across Asia and Oceania in late 2021. Today, official online cabinets can be found in several countries throughout the region, including Australia and New Zealand, and support regular updates, online events, Banapass / Amusement IC, and score tracking.
+
+## North America
+
+The **Nijiiro USA** release began rolling out across the United States in late 2024. While still less common than in Japan and parts of Asia, official online cabinets can now be found in a growing number of arcades.
+
+## Mainland China
+
+Mainland China has its own official **Nijiiro** release, which launched in late 2023. While the core gameplay is the same, the Chinese version has the most noticeable regional differences, with a significantly different song catalogue, region-exclusive collaborations, and a separate release schedule for new content.
+
+## Other Regions
+
+Outside Japan, Asia/Oceania, mainland China, and North America, official online Nijiiro cabinets are rare. Most Taiko cabinets found elsewhere are older arcade versions that are no longer connected to Bandai Namco's online service.
+
+Some regions may also have privately operated or modified Nijiiro cabinets. These are not officially supported by Bandai Namco and may differ from the current arcade version.
+
+Because **taiko.guide** focuses on the official online arcade experience, older and unofficial cabinets are not covered in detail.
+
+---
 
 # Locating a Cabinet
 
@@ -43,32 +73,85 @@ can also help confirm whether a machine is available before you visit.
 
 ## Zenius -I- vanisher
 
-Zenius -I- vanisher (often shortened to **Ziv**) is one of the most widely used arcade locators for rhythm games. It allows you to search for Taiko no Tatsujin cabinet locations 
-by country, city, or arcade name.
+Zenius -I- vanisher (often shortened to **Ziv**) is one of the most widely used arcade locators for rhythm games. 
+
+To find Taiko no Tatsujin cabinets, select **Taiko no Tatsujin** as the game series, choose the appropriate game version, then search by location or arcade name. Alternatively, you can browse the interactive map to explore different regions.
+
+**Arcade Locator:** <https://zenius-i-vanisher.com/v5.2/arcades.php>
 
 {: .important }
-Before searching, make sure to select the correct **Nijiiro** version for your region. Each regional version has its own list of cabinet locations as there are slight differences in features available.
+If you're searching for an official online **Nijiiro** cabinet, make sure to select the correct regional release before searching. Although the core gameplay is the same, each regional release has its own list of cabinet locations.
 
-Use the version that matches the region you're searching in. 
+### Japan
 
 ![Ziv Japan game selection](/assets/images/arcade/ziv-nijiiro-jp.png)
 
-*Select **太鼓の達人 ニジイロVer.** when searching within Japan.*
+*Select **"太鼓の達人 ニジイロVer."** when searching within Japan.*
 
-![Ziv USA game selection](/assets/images/arcade/ziv-nijiiro-usa.png)
-
-*Select **Taiko no Tatsujin Nijiro USA (2024)** when searching within the USA.*
+### Asia & Oceania
 
 ![Ziv Asia game selection](/assets/images/arcade/ziv-nijiiro-asia.png)
 
-*Select **太鼓の達人 ニジイロVer.(アシア版）** when searching within the rest of Asia or Oceania.*
+*Select **"太鼓の達人 ニジイロVer.(アジア版)"** when searching within Asia and Oceania.*
 
-Once you've selected the correct version, search by country, city, or arcade name to view known cabinet locations. Alternatively, you can browse the interactive map to explore different regions.
+### North America
+
+![Ziv USA game selection](/assets/images/arcade/ziv-nijiiro-usa.png)
+
+*Select **"Taiko no Tatsujin Nijiiro USA (2024)"** when searching within North America.*
+
+### Mainland China
+
+![Ziv China game selection](/assets/images/arcade/ziv-nijiiro-cn.png)
+
+*Select **"太鼓之达人 / Taiko no Tatsujin Nijiiro"** when searching within mainland China.*
+
+### Other Regions
+
+If you're searching outside the official Nijiiro regions listed above, simply select **Taiko no Tatsujin** without specifying a particular version. This will display older arcade releases, which are still found in some parts of the world.
 
 {: .note }
 Ziv is maintained by the rhythm game community. While it's generally very accurate, newly installed cabinets or recently removed machines may take some time to appear.
 
+## Local Communities
+
+Local rhythm game communities are often the best source of up-to-date information about Taiko no Tatsujin cabinets in a particular region. If you're unable to find a cabinet using Ziv, or simply want to confirm that a cabinet is still operational before making a special trip, it's worth asking local players.
+
+Communities can often tell you:
+
+- Whether a cabinet is still operating
+- Whether it's an official online Nijiiro cabinet or an older offline version
+- If the cabinet is currently online
+- Whether there are any known issues or maintenance problems
+- Which arcades are most popular with local players
+
+Useful places to ask include:
+
+- Discord servers
+- Facebook groups
+- Reddit communities
+- Local arcade or rhythm game groups
+
+{: .tip }
+If you're travelling, joining a local rhythm game Discord server before your trip can be a great way to discover arcades, meet other players, and get the latest information on cabinet locations.
+
+A directory of regional Taiko no Tatsujin communities can be found on the **Community Directory** page (TBA) in the Resources section.
+
 ## Google Maps
 
-Google Maps can also be surprisingly useful, particularly if you're travelling.
+Google Maps can also be a useful way to find Taiko no Tatsujin cabinets, particularly when travelling or looking for arcades in an unfamiliar area.
 
+Try searching for terms such as:
+
+- Arcade
+- Game centre
+- Amusement centre
+- Namco
+- Round1
+- Timezone
+- The name of a local arcade chain
+
+Many arcades upload photos of the venue interior, making it easy to confirm whether they have a Taiko no Tatsujin cabinet before visiting. Recent reviews can also be useful for checking whether a machine is still available or if there are any known issues.
+
+{: .tip }
+Google Maps is best used alongside Ziv and local community resources. While it may not list individual games, it's an excellent way to confirm arcade locations, opening hours, recent photos, and customer reviews before making a trip.

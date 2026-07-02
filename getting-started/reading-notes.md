@@ -5,7 +5,7 @@ parent: Getting Started
 nav_order: 1
 has_toc: false
 ---
-
+ 
 # Reading Notes
 
 Every chart in Taiko no Tatsujin is built from a small number of note types. Once you understand what each note represents and how to play it, you'll have everything you need to start playing any song you choose.
@@ -16,7 +16,8 @@ Unless otherwise stated, this guide describes the behaviour of the **modern Niji
 ### On this page
 
 - [The Taiko Drum](#the-taiko-drum)
-- [Note Types](#note-types)
+- [Common Notes](#common-notes)
+- [Uncommon Notes](#uncommon-notes)
 - [Reading Tips](#reading-tips)
 - [Common Beginner Mistakes](#common-beginner-mistakes)
 
@@ -28,8 +29,8 @@ Before learning the different note types, it's important to understand how the t
 
 The drum has **two playable areas**:
 
-- **Surface (drumhead)**: used for **Don (D)** notes.
-- **Rim**: used for **Ka (K)** notes.
+- **Surface (drumhead)**: used for **don (D)** notes.
+- **Rim**: used for **ka (K)** notes.
 
 Each area can be struck on either the **left** or **right** side, giving four possible inputs in total.
 
@@ -44,127 +45,130 @@ The following abbreviations are also used:
 
 Every note in Taiko no Tatsujin is simply a variation of one or both of these two inputs.
 
+{: .fact }
+The drum used in *Taiko no Tatsujin* is based on the traditional Japanese **taiko** (太鼓), a family of percussion instruments that have been used in Japan for centuries.
+
 ---
 
-# Standard Notes
+# Common Notes
 
-These are the note types you'll encounter in almost every song. Learning them is all you need to begin playing.
+These are the note types you'll encounter most frequently while playing Taiko no Tatsujin. Learning what each one represents is all you need to begin playing. 
 
-## Don Note
+## Don (ドン) 
 
 ![Don Note](/assets/images/getting-started/don.png)
 
-The **Don note** is represented by a **red circle**. 
+The **don** note is represented by a **red circle**. 
 
-Strike the **surface** of the drum when the note reaches the judgement circle. 
+Strike the **surface** of the drum when the note reaches the judgement circle. 
 
-Either side of the drumhead may be used. 
+Either side of the drumhead may be used. 
 
-Remember: **red** notes always represent **Don**. 
+Remember: **red** notes always represent **don**. 
 
-## Ka Note
+## Ka (カ) 
 
 ![Ka Note](/assets/images/getting-started/ka.png)
 
-The **Ka note** is represented by a **blue circle**. 
+The **ka note** is represented by a **blue circle**. 
 
-Strike the **rim** of the drum when the note reaches the judgement circle. 
+Strike the **rim** of the drum when the note reaches the judgement circle. 
 
-Either side of the rim may be used. 
+Either side of the rim may be used. 
 
-Remember: **blue** notes always represent **Ka**. 
+Remember: **blue** notes always represent **ka**. 
 
-## Large Don & Ka Notes
+## Drum Roll (連打) 
+
+![Drum Rolls](/assets/images/getting-started/rolls.png)
+  
+**Drum rolls** begin with a yellow note followed by a yellow bar.
+
+When the drum roll reaches the judgement circle, repeatedly strike the drum until the yellow bar ends.
+
+**Both don and ka hits count**, so you may strike either the surface or the rim during a drum roll.
+
+> Drum rolls do not affect your combo. Missing a drum roll won't cause a combo break. 
+
+Remember: 
+- Individual hit timing does not matter during drum rolls.
+- Both don and ka hits count (though most players will only use don).
+- Faster hits generally result in more points.
+
+## Large Notes
 
 ![Large Notes](/assets/images/getting-started/large-notes.png)
 
-**Large Notes** are represented by **larger versions of the standard Don and Ka notes**. 
+**Large Notes** are larger versions of the standard **don**, **ka**, and **drum roll** notes. 
 
-They use the same playable areas of the drum as their regular counterparts: 
+They are played on the same parts of the drum as their regular counterparts.
 
-- **Large Don**: Strike the **surface**. 
-- **Large Ka**: Strike the **rim**.
-
-On **Nijiiro** arcade cabinets, the larger note indicates a **strong strike**.
-However, most arcade cabinets are configured with sensitivity settings that allow Large Notes to register with a normal-strength hit,
-so many players simply play them the same way as regular Don and Ka notes.  
+On **Nijiiro** arcade cabinets, the larger note indicates a **strong strike**. However, most arcade cabinets are configured with sensitivity settings that allow large notes to register with a normal-strength hit, so many players simply play them the same way as regular-sized notes.  
 
 {: .note }
-> On PC/Console versions, Large Notes are played differently. Instead of using a strong strike, **press both matching inputs at the same time.**
+> On PC and console versions, large notes are played differently. Instead of using a strong strike, **press both matching inputs at the same time.** Using both inputs awards the highest possible score.
 >
-> - **Large Don**: Press both Don inputs together.
-> - **Large Ka**: Press both Ka inputs together.
->
-> Using both inputs awards the highest possible score on these versions.
+> - **Large don:** Press both don inputs together.
+> - **Large ka:** Press both ka inputs together.
+> - **Large drum rolls** are played the same way as regular drum rolls, but award more points per hit.
+> 
+> See [Scoring & Judgement](/getting-started/scoring) for more information.
 
-## Drum Rolls
+## Balloon
 
-![Drum Rolls](/assets/images/getting-started/rolls.png)
-  
-**Drum Rolls** begin with a yellow note followed by a yellow bar. As with Don and Ka notes, there are two variants: 
-- Drum Roll
-- Large Drum Roll
+![Balloon](/assets/images/getting-started/balloon.png)
 
-Both are played exactly the same way. When the Drum Roll reaches the judgement circle, repeatedly strike the drum until the yellow bar ends.
+**Balloon** notes are represented by a red balloon displaying a number.
 
-Unlike regular notes, **both Don and Ka hits count**, so you may strike either the surface or the rim.
+Balloons are similar to drum rolls, requiring repeated hits before the note ends. Unlike drum rolls, however, **only don (surface) hits count** towards the required total.
 
-Like Large Notes, a **Large Drum Roll** is intended to be played with **strong strikes**.
+Strike the surface repeatedly until the displayed number reaches zero before the note ends. 
 
-In practice, most arcade cabinets are configured with sensitivity settings that allow normal-strength hits to register successfully.
-Because of this, most players simply play Large Drum Rolls the same way as regular Drum Rolls.
+{: .tip }
+The required number of hits is shown inside the Balloon. If the required number of hits isn’t reached before the note ends, the balloon simply won’t pop.
 
-**Remember**: 
-- Timing does not matter during Drum Rolls.
-- Both Don and Ka hits count.
-- Faster hits generally result in more points.
+—- 
 
-> Scoring: Large Drum Rolls award more points per hit compared to regular Drum Rolls, but are otherwise played identically. 
+# Uncommon Notes
 
----
-
-# Special Notes
-
-The following note types do not appear in all charts.
-
-## Kusudama (Party Popper/Mallet Notes)
+## Kusudama (Party Popper/Mallet)
 
 ![Kusudama](/assets/images/getting-started/kusudama.png)
 ![Mallet](/assets/images/getting-started/mallet.png)
 
-**Kusudama**, referred to as **Party Popper Notes** on arcade versions and **Mallet Notes** on some console versions ... 
+**Kusudama**, referred to as **Party Popper** notes on arcade versions and appearing as **Mallet** notes on some console versions, function similarly to balloons.
 
-Like Balloon Notes, repeatedly strike the **surface** until the required number of hits has been reached before the note ends.
+Strike the surface of the drum repeatedly until the required number of hits has been reached before the note ends.
 
-## Hand-Holding Notes (Double Notes)
+## Hand-Holding Notes
 
 ![Hand-Holding Notes](/assets/images/getting-started/hand-holding.png)
 
-**Hand-Holding Notes**, also referred to as **Double Notes** ...
+**Hand-Holding Notes** only appear in certain 2-player charts.
 
-When the note reaches the judgement circle, both players must strike their drums at the same time to clear it.
+When the note reaches the judgement circle, both players must strike the drum surface at the same time.
 
-{: .note }
-**Hand-Holding Notes** are only used in specific charts during 2-player mode, and can safely be ignored while learning the fundamentals of the game.
+{: .tip }
+> Hand-Holding Notes are exclusive to specific 2-player charts and can safely be ignored while learning the fundamentals of the game.
 
 ---
 
 # Reading Tips
 
-- Read from left to right.
-- Focus on note colour before size.
-- Learn to recognise note patterns instead of individual notes.
-- Look ahead rather than staring at the hit area.
-- Use the bar lines to help keep track of timing.
-- GOGO Time changes note appearance but not how notes are hit.
+- Ignore your score while learning to read charts. Focus on recognising the notes correctly first. 
+- Focus on **note colour** before note size.
+- Look **ahead** to the right, rather than staring at the judgement circle.
+- If you're struggling to read a chart, try a lower difficulty first to become familiar with common note types.
+- If you miss a note, keep reading the chart rather than trying to recover the missed hit. 
 
 ---
 
-Common Beginner Mistakes
-- Confusing Don and Ka.
-- Watching the judgement area instead of looking ahead.
+# Common Beginner Mistakes
+
+- Confusing don (surface) and ka (rim) inputs.
+- Watching the judgement circle instead of looking ahead.
 - Hitting balloon notes only once.
-- (PC/Console) Forgetting to use both hands on big notes.
+- **(PC/Console)** Forgetting to use both matching inputs on large notes.
 
 ---
 

@@ -45,8 +45,8 @@ The following abbreviations are also used:
 
 Every note in Taiko no Tatsujin is simply a variation of one or both of these two inputs.
 
-{: .fact }
-The drum used in *Taiko no Tatsujin* is based on the traditional Japanese **taiko** (太鼓), a family of percussion instruments that have been used in Japan for centuries.
+{: .note }
+**Fun fact:** The drum used in *Taiko no Tatsujin* is based on the traditional Japanese **taiko** (太鼓), a family of percussion instruments that have been used in Japan for centuries.
 
 ---
 

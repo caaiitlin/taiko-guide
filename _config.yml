@@ -16,7 +16,7 @@ favicon_ico: "/assets/favicon/favicon.png"
 callouts:
   note:
     title: Note
-    color: green
+    color: yellow
   warning:
     title: Warning
     color: red
@@ -28,4 +28,4 @@ callouts:
     color: yellow
   fact:
     title: Fun Fact
-    color: blue
+    color: yellow

@@ -17,7 +17,7 @@ This page explains the best ways to find a Taiko cabinet, along with a few tips 
 
 - [What is Nijiiro?](#what-is-nijiiro)
 - [Regional Availability](#regional-availability)
-- [Using Arcade Locators](#using-arcade-locators)
+- [Locating a Cabinet](#locating-a-cabinet)
 - [Before You Visit](#before-you-visit)
 
 ---
@@ -30,7 +30,7 @@ new songs, online events, and gameplay improvements.
 ![Official Nijiiro cabinet](/assets/images/arcade/taikocab.png)
 
 Compared to older arcade versions, Nijiiro offers a smoother experience with a 120 Hz display, current online features such as score tracking, player profiles, cosmetics, events, 
-and Banapass/Amusement IC support. Newer cabinets may also include hardware improvements, such as updated drum construction for better durability and changes to reduce static 
+and Bandai Namco Passport (Banapass)/Amusement IC support. Newer cabinets may also include hardware improvements, such as updated drum construction for better durability and changes to reduce static 
 electricity.
 
 If possible, we recommend playing on an official online Nijiiro cabinet to enjoy the latest features, content, and hardware improvements. Unless otherwise stated, all arcade 
@@ -58,11 +58,9 @@ Mainland China has its own official **Nijiiro** release, which launched in late 
 
 ## Other Regions
 
-Outside Japan, Asia/Oceania, mainland China, and North America, official online Nijiiro cabinets are rare. Most Taiko cabinets found elsewhere are older arcade versions that are no longer connected to Bandai Namco's online service.
+Bandai Namco does not officially operate the online Nijiiro arcade version in regions outside Japan, Asia/Oceania, mainland China, and North America. As a result, Taiko cabinets found elsewhere are typically older arcade versions that are no longer connected to Bandai Namco's online service.
 
-Some regions may also have privately operated or modified Nijiiro cabinets. These are not officially supported by Bandai Namco and may differ from the current arcade version.
-
-Because **taiko.guide** focuses on the official online arcade experience, older and unofficial cabinets are not covered in detail.
+Because **taiko.guide** focuses on the official online arcade experience, older offline arcade versions are not covered in detail.
 
 ---
 
@@ -111,7 +109,7 @@ If you're searching for an official online **Nijiiro** cabinet, make sure to sel
 If you're searching outside the official Nijiiro regions listed above, simply select **Taiko no Tatsujin** without specifying a particular version. This will display older arcade releases, which are still found in some parts of the world.
 
 {: .note }
-Ziv is maintained by the rhythm game community. While it's generally very accurate, newly installed cabinets or recently removed machines may take some time to appear.
+Ziv is maintained by the rhythm game community. While it's generally very accurate, newly installed or recently removed cabinets may take some time to be reflected in the database..
 
 ## Local Communities
 
@@ -135,7 +133,7 @@ Useful places to ask include:
 {: .tip }
 If you're travelling, joining a local rhythm game Discord server before your trip can be a great way to discover arcades, meet other players, and get the latest information on cabinet locations.
 
-A directory of regional Taiko communities can be found on the **Community Directory** page in the Resources section.
+A directory of regional Taiko communities can be found on the **[Community Directory](/resources/community-directory)** page in the Resources section.
 
 ## Google Maps
 
@@ -155,6 +153,42 @@ Many arcades upload photos of the venue interior, making it easy to confirm whet
 
 {: .tip }
 Google Maps is best used alongside Ziv and local community resources. While it may not list individual games, it's an excellent way to confirm arcade locations, opening hours, recent photos, and customer reviews before making a trip.
+
+---
+
+# Before You Visit
+
+Before making a special trip, it's worth checking a few things to avoid a wasted journey. A few minutes of planning beforehand can save several hours of travel.
+
+## Daily Server Maintenance
+
+The online arcade version undergoes a daily server maintenance period.
+
+From **21 May 2026**, the maintenance window is **05:00–07:00 JST**. During this time, Banapass and other Amusement IC card features are unavailable for the worldwide version (excluding mainland China).
+
+{: .important }
+If you're playing outside Japan, remember to convert the maintenance window to your local time zone. Otherwise, you may arrive while maintenance is still in progress and have to wait before you can play.
+
+Don't worry if you're unfamiliar with Banapass or Amusement IC cards. They'll be explained on the next page.
+
+## Check the Arcade
+
+Before travelling, it's a good idea to confirm that:
+
+- The arcade is open and you know its opening hours.
+- The cabinet is still available.
+- The machine isn't currently out of service or undergoing repairs.
+
+Google Maps reviews, recent photos, and local community groups are often the quickest way to verify this.
+
+## Plan Ahead
+
+If you're visiting a new arcade, make sure you know how you'll be paying. While many venues accept card or mobile payments, some still require cash or prepaid arcade cards.
+
+Weekends, evenings, and school holidays are often the busiest times. If you'd prefer to avoid waiting for a machine, consider visiting during quieter hours.
+
+{: .tip }
+A quick check before leaving home can save a disappointing trip, especially if you're travelling a long distance or visiting an unfamiliar arcade.
 
 ---
 
